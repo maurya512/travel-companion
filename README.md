@@ -7,4 +7,4 @@
 
 <!-- ! creating a header component that will use a custom hook -->
 
-
+<!-- * creating a map component that will be rendered with google maps api and needed us to connect to the google clouds console -->
